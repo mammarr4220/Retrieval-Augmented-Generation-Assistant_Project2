@@ -43,7 +43,7 @@ function App() {
   return (
     <div className="app">
       <header className="header">
-        <h1>HIV Service Delivery Assistant</h1>
+        <h1>World Health Organization Healthcare Assistant</h1>
         <p>Ask questions about the provided HIV guidelines.</p>
       </header>
 
